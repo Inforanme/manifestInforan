@@ -1,0 +1,38 @@
+{
+  "name": "Inforan",
+  "short_name": "Inforan",
+  "start_url": "https://www.inforan.me/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang membahas tentang resep masakan, makanan, kue basah, kue kering dll.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-PaQ5SbeQFwo/XvUOHeeKNCI/AAAAAAAACaU/s957hcPgG4sfxd9tXJ3o7X_-8opXCVMmgCLcBGAsYHQ/s48/inforanku.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PaQ5SbeQFwo/XvUOHeeKNCI/AAAAAAAACaU/s957hcPgG4sfxd9tXJ3o7X_-8opXCVMmgCLcBGAsYHQ/s72/inforanku.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PaQ5SbeQFwo/XvUOHeeKNCI/AAAAAAAACaU/s957hcPgG4sfxd9tXJ3o7X_-8opXCVMmgCLcBGAsYHQ/s96/inforanku.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PaQ5SbeQFwo/XvUOHeeKNCI/AAAAAAAACaU/s957hcPgG4sfxd9tXJ3o7X_-8opXCVMmgCLcBGAsYHQ/s144/inforanku.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PaQ5SbeQFwo/XvUOHeeKNCI/AAAAAAAACaU/s957hcPgG4sfxd9tXJ3o7X_-8opXCVMmgCLcBGAsYHQ/s168/inforanku.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PaQ5SbeQFwo/XvUOHeeKNCI/AAAAAAAACaU/s957hcPgG4sfxd9tXJ3o7X_-8opXCVMmgCLcBGAsYHQ/s192/inforanku.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PaQ5SbeQFwo/XvUOHeeKNCI/AAAAAAAACaU/s957hcPgG4sfxd9tXJ3o7X_-8opXCVMmgCLcBGAsYHQ/s512/inforanku.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
